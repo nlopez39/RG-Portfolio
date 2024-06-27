@@ -338,3 +338,12 @@ article .icon{
 .contact-icon{
     cursor:default;
 }
+/* FOOTER Section */
+footer{
+    height: 26vh;
+    margin: 0 1rem;
+
+}
+footer p{
+    text-align: center;
+}
