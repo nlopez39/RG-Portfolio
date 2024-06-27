@@ -6,6 +6,9 @@
     .about-containers{
         flex-wrap: wrap;
     }
+    #contact{
+        margin-top:auto;
+    }
 }
 
 @media screen and (max-width:1200px){
@@ -36,6 +39,9 @@
     }
     .about-containers{
         margin-top: 0; 
+    }
+    #contact{
+        margin-top:auto;
     }
     
 }@media screen and (max-width:411px){
