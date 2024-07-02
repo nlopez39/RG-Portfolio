@@ -10,13 +10,14 @@
 
 ## Description
 
-I created a portfolio for Roman Giglio using HTML,CSS and a bit of JS.
+Welcome to Roman Giglio's professional portfolio, a responsive and interactive website designed to showcase his journey and achievements as a researcher. Explore Roman's research objectives, delve into his extensive publications, and discover more about his academic and professional pursuits.
 
-# Features:
+Features:
 
-- Portfolio Showcase: Browse through user's publications, download CV and learn more about Roman.
+- Languages: HTML, CSS and Javascript
+- Portfolio Showcase: Browse through publications, download CV and learn more about Roman.
 - Easy Navigation: Simple and intuitive navigation makes it effortless to discover the content you're interested in.
-- Netlify: App is deployed on Netlify.
+- Deployment: The App is deployed on Netlify.
 
 ### Demo
 
@@ -30,7 +31,7 @@ To install this project you can either perform a `git clone` in your command-lin
 
 I followed this tutorial: https://www.youtube.com/watch?v=ldwlOzRvYOU
 
-https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2
+Github Repo: https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2
 
 ## Tests
 
