@@ -4,7 +4,6 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [Tests](#tests)
 - [License](#license)
@@ -26,16 +25,6 @@ https://roman-giglio-portfolio.netlify.app/
 ## Installation
 
 To install this project you can either perform a `git clone` in your command-line or simply fork your own copy into your Github.
-
-## Usage
-
-To use this project,
-
-1.  Go to the cloned files, then type `npm i` in your terminal to install the appropriate dependencies. Be sure you’re in the correct location in your terminal first!
-2.  Bundle the front-end code by entering `npm run build`.
-3.  Start the server by entering `npm run start`
-4.  Go to the port on your local host
-5.  Click the "Install" button.
 
 ## Credits
 
