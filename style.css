@@ -33,6 +33,9 @@ nav{
     align-items: center;
     height: 17vh;
 }
+ul{
+    list-style-type: none;
+}
 .nav-links{
     gap: 2rem;
     list-style: none;
@@ -238,6 +241,13 @@ section{
 .about-pic{
     border-radius:2rem;
 }
+.about-pic-container{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: 0;
+   
+}
 .arrow{
     position: absolute;
     right: -5rem;
@@ -245,7 +255,7 @@ section{
 }
 .details-container{
     padding:1.5rem;
-    flex:1;
+    flex: auto;
     background: white;
     border-radius: 2rem;
     border: rgb(53,53,53) 0.1rem solid;
@@ -259,7 +269,7 @@ section{
 .section__pic-container{
     height: 400px;
     width: 400px;
-    margin: auto 0;
+    margin: 0;
 }
 
 /* PROJECTS SECTION */
